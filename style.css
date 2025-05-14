@@ -1,6 +1,6 @@
 body{
     /* background-color: aqua; */
-    font-family: "Plus Jakarta Sans", 
+      font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 #lang{
@@ -134,5 +134,5 @@ footer span {
 }
 
 .info:hover{
-    background-color: black;
+    background-color: #616165;
 }
