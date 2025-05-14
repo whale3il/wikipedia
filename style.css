@@ -132,3 +132,7 @@ footer span {
 .pic2{
    padding-left: 20px
 }
+
+.info:hover{
+    background-color: black;
+}
